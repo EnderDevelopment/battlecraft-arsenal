@@ -1,0 +1,22 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.battlecraft.weapon_idle": {
+      "loop": true,
+      "bones": { "slide": { "rotation": [0, 0, 0] } }
+    },
+    "animation.battlecraft.weapon_recoil": {
+      "loop": false,
+      "animation_length": 0.16,
+      "bones": {
+        "slide": {
+          "rotation": {
+            "0.0": [0, 0, 0],
+            "0.04": [-8, 0, 0],
+            "0.16": [0, 0, 0]
+          }
+        }
+      }
+    }
+  }
+}

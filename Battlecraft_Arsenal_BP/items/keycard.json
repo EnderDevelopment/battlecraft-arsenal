@@ -1,0 +1,7 @@
+{
+  "format_version": "1.21.50",
+  "minecraft:item": {
+    "description": {"identifier": "battlecraft:military_keycard", "menu_category": {"category": "items"}},
+    "components": {"minecraft:max_stack_size": 1, "minecraft:icon": {"texture": "military_keycard"}}
+  }
+}

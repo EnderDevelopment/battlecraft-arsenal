@@ -1,0 +1,18 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "battlecraft:weapon_display",
+      "materials": { "default": "entity_alphatest" },
+      "textures": { "default": "textures/items/m1911" },
+      "geometry": { "default": "geometry.battlecraft_weapon" },
+      "animations": {
+        "weapon_controller": "controller.animation.battlecraft.weapon",
+        "idle": "animation.battlecraft.weapon_idle",
+        "recoil": "animation.battlecraft.weapon_recoil"
+      },
+      "scripts": { "animate": ["weapon_controller"] },
+      "render_controllers": ["controller.render.battlecraft_weapon"]
+    }
+  }
+}

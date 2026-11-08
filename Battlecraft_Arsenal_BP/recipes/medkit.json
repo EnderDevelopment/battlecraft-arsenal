@@ -1,0 +1,1 @@
+{"format_version":"1.20.10","minecraft:recipe_shaped":{"description":{"identifier":"battlecraft:craft_medkit"},"tags":["crafting_table"],"pattern":["IRI","RGR","IRI"],"key":{"I":{"item":"minecraft:iron_ingot"},"R":{"item":"minecraft:redstone"},"G":{"item":"minecraft:gold_ingot"}},"result":{"item":"battlecraft:medkit","count":1}}}

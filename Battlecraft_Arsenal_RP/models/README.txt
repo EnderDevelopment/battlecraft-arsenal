@@ -1,0 +1,1 @@
+Place final HD PNG item textures in textures/items and final custom geometry in models/entity or attachables here. The item identifiers and model slots are reserved for all 16 weapons. The pack remains functional with the generated item icons and server weapon behavior.

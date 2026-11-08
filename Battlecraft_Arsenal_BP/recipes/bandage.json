@@ -1,0 +1,1 @@
+{"format_version":"1.20.10","minecraft:recipe_shaped":{"description":{"identifier":"battlecraft:craft_bandage"},"tags":["crafting_table"],"pattern":[" S ","SWS"," S "],"key":{"S":{"item":"minecraft:string"},"W":{"item":"minecraft:white_wool"}},"result":{"item":"battlecraft:bandage","count":2}}}

@@ -1,0 +1,18 @@
+{
+  "format_version": "1.10.0",
+  "animation_controllers": {
+    "controller.animation.battlecraft.weapon": {
+      "initial_state": "default",
+      "states": {
+        "default": {
+          "animations": ["idle"],
+          "transitions": [{ "recoil": "query.is_using_item" }]
+        },
+        "recoil": {
+          "animations": ["recoil"],
+          "transitions": [{ "default": "!query.is_using_item" }]
+        }
+      }
+    }
+  }
+}

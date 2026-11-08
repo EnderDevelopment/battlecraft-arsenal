@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Battlecraft Arsenal Behavior",
+    "description": "Weapons, command radio, army management, factions, territories, quests and military equipment.",
+    "uuid": "c1b79a48-7db4-4ba6-93f9-f8e39e8c2f11",
+    "version": [1, 1, 0],
+    "min_engine_version": [1, 21, 50]
+  },
+  "modules": [
+    {"type": "data", "uuid": "3f5a73be-1cf7-4e35-ae10-6ca4300f0ad1", "version": [1, 1, 0]},
+    {"type": "script", "language": "javascript", "entry": "scripts/main.js", "uuid": "bb8e2ea4-639f-4e55-88a3-44dca62f5a84", "version": [1, 1, 0]}
+  ],
+  "dependencies": [
+    {"uuid": "6f0a5bbd-1ed3-4c5a-9457-0f6f2b14a762", "version": [1, 1, 0]},
+    {"module_name": "@minecraft/server", "version": "1.16.0"}
+  ]
+}

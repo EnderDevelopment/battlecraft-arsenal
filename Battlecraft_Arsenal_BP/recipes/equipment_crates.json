@@ -1,0 +1,1 @@
+{"format_version":"1.20.10","minecraft:recipe_shaped":{"description":{"identifier":"battlecraft:craft_ammunition_crate"},"tags":["crafting_table"],"pattern":["III","IGI","III"],"key":{"I":{"item":"minecraft:iron_ingot"},"G":{"item":"minecraft:gunpowder"}},"result":{"item":"battlecraft:ammunition_crate","count":1}}}

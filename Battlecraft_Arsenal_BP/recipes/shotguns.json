@@ -1,0 +1,1 @@
+{"format_version":"1.20.10","minecraft:recipe_shaped":{"description":{"identifier":"battlecraft:craft_pump_shotgun"},"tags":["crafting_table"],"pattern":["III","RIR"," SI"],"key":{"I":{"item":"minecraft:iron_ingot"},"R":{"item":"minecraft:redstone"},"S":{"item":"minecraft:stick"}},"result":{"item":"battlecraft:pump_shotgun","count":1}}}

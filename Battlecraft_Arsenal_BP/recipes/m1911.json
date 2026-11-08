@@ -1,0 +1,1 @@
+{"format_version":"1.20.10","minecraft:recipe_shaped":{"description":{"identifier":"battlecraft:craft_m1911"},"tags":["crafting_table"],"pattern":[" II"," RI","  S"],"key":{"I":{"item":"minecraft:iron_ingot"},"R":{"item":"minecraft:redstone"},"S":{"item":"minecraft:stick"}},"result":{"item":"battlecraft:m1911","count":1}}}

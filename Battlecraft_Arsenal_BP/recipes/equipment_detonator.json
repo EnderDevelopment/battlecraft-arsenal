@@ -1,0 +1,1 @@
+{"format_version":"1.20.10","minecraft:recipe_shaped":{"description":{"identifier":"battlecraft:craft_detonator"},"tags":["crafting_table"],"pattern":[" RR"," RI","I  "],"key":{"R":{"item":"minecraft:redstone"},"I":{"item":"minecraft:iron_ingot"}},"result":{"item":"battlecraft:detonator","count":1}}}
